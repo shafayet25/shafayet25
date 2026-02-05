@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shafayet Hossen Rakib</h1>
-<h3 align="center">A passionate Flutter & FastAPI Developer from Bangladesh</h3>
+<h1 align="center">Assalamu-Aalikum 👋, I'm Shafayet Hossen Rakib</h1>
+<h3 align="center">Creating high-performance apps with Flutter and FastAPI | Passionate about clean architecture & scalable solutions</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shafayet25&label=Profile%20views&color=0e75b6&style=flat" alt="shafayet25" />
